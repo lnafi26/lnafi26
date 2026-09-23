@@ -51,7 +51,7 @@ I'm particularly interested in developing intelligent, modular, and secure syste
 
 ## 🚀 Featured Projects
 
-### 🎵 Syncora — AI-Powered Video Editing Companion
+### 🎵 Project Syncora — AI-Powered Video Editing Companion
 
 An AI-assisted application designed to help video editors discover music, analyze audio, and plan their edits more effectively.
 
@@ -66,7 +66,7 @@ Key development areas:
 
 **Status:** Active development.
 
-### 🧠 DEX — Development, Explanation, and eXecution
+### 🧠 Project DEX — Development, Explanation, and eXecution
 
 A personal AI-powered software development assistant designed to interact with development environments and support programming workflows.
 
@@ -83,7 +83,7 @@ Current development areas:
 
 **Status:** Active development. Read-only IDE integration is complete; controlled editing capabilities are in progress.
 
-### 🛡️ Project SENTRY — Personal Network Security Lab
+### 🛡️ Project Sentry — Personal Network Security Lab
 
 A personal cybersecurity project focused on developing a modular home-network monitoring and security environment.
 
