@@ -1,4 +1,3 @@
-
 # Hey there! I'm Labib 👋
 
 ### Computer Science Graduate | Software Development | AI Systems | Cybersecurity
@@ -67,6 +66,8 @@ Key development areas:
 - Cloud deployment and automated development workflows.
 
 **Status:** Active development.
+
+[![Repository](https://img.shields.io/badge/Repository-View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lnafi26/Syncora)
 
 ---
 
