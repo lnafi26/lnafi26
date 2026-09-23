@@ -51,9 +51,11 @@ I'm particularly interested in developing intelligent, modular, and secure syste
 
 ## 🚀 Featured Projects
 
-### 🎵 Project Syncora — AI-Powered Video Editing Companion
+### 🌐 Web Applications
 
-An AI-assisted application designed to help video editors discover music, analyze audio, and plan their edits more effectively.
+#### 🎵 Project Syncora — AI-Powered Video Editing Companion
+
+An AI-assisted web application designed to help video editors discover music, analyze audio, and plan their edits more effectively.
 
 **Technologies:** Python, FastAPI, JavaScript, Supabase, PostgreSQL, Qwen, Hugging Face, and music information APIs.
 
@@ -66,11 +68,15 @@ Key development areas:
 
 **Status:** Active development.
 
-### 🧠 Project DEX — Development, Explanation, and eXecution
+---
+
+### 🧠 AI Assistants & Agents
+
+#### 💻 Project DEX — Development, Explanation, and eXecution
 
 A personal AI-powered software development assistant designed to interact with development environments and support programming workflows.
 
-DEX is being developed with a modular architecture that separates its centralized intelligence from device-local capabilities.
+Project DEX is being developed with a modular architecture that separates its centralized intelligence from device-local capabilities.
 
 **Technologies:** Python, FastAPI, TypeScript, VS Code Extension API, Git, GitHub Actions, and LLM integration.
 
@@ -83,11 +89,30 @@ Current development areas:
 
 **Status:** Active development. Read-only IDE integration is complete; controlled editing capabilities are in progress.
 
-### 🛡️ Project Sentry — Personal Network Security Lab
+#### 🛡️ Project ROBERT — Risk Observation, Behavioral Evaluation, Response, and Triage
+
+A personal AI-powered cybersecurity assistant designed to serve as the intelligent monitoring, analysis, and interaction layer for Project Sentry.
+
+Project ROBERT is intended to complement conventional network security tools by interpreting security telemetry, assisting with threat assessment, and providing actionable insights into home-network activity.
+
+Key development areas:
+- AI-assisted analysis of network activity and security events.
+- Intelligent threat assessment and incident triage.
+- Integration with network monitoring and security tools.
+- Natural-language interaction for security monitoring and management.
+- Modular integration with Project Sentry's underlying infrastructure.
+
+**Status:** Planned development as part of Project Sentry.
+
+---
+
+### 🔐 Cybersecurity & Infrastructure
+
+#### 🖥️ Project Sentry — Personal Network Security Lab
 
 A personal cybersecurity project focused on developing a modular home-network monitoring and security environment.
 
-The project explores integrating conventional network security tools with an AI-powered security assistant, ROBERT (Risk Observation, Behavioral Evaluation, Response, and Triage).
+Project Sentry is designed to serve as the underlying security infrastructure for Project ROBERT, integrating conventional network security tools with AI-assisted monitoring and analysis capabilities.
 
 Key areas of exploration:
 - Network visibility, monitoring, and security telemetry.
@@ -145,9 +170,9 @@ Queens College, City University of New York | June 2026
 ## 🔭 What I'm Currently Working On
 
 - Developing AI-powered applications and personal AI assistants.
-- Expanding DEX's capabilities for secure, AI-assisted software development.
-- Building out Syncora's music discovery and audio analysis functionality.
-- Exploring cybersecurity, network monitoring, and AI-assisted security operations.
+- Expanding Project DEX's capabilities for secure, AI-assisted software development.
+- Building out Project Syncora's music discovery and audio analysis functionality.
+- Exploring cybersecurity, network monitoring, and AI-assisted security operations through Project Sentry and Project ROBERT.
 - Strengthening my knowledge of software architecture, cloud infrastructure, and secure application development.
 
 ---
